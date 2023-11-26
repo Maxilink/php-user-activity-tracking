@@ -1,0 +1,458 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: User Activity Tracking and Log\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-13 08:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: class-moove-activity-actions.php:215
+msgid "1 day"
+msgstr ""
+
+#: class-moove-activity-actions.php:261
+msgid "1 month"
+msgstr ""
+
+#: class-moove-activity-actions.php:251
+msgid "1 week"
+msgstr ""
+
+#: class-moove-activity-actions.php:279
+msgid "1 year"
+msgstr ""
+
+#: class-moove-activity-actions.php:221
+msgid "2 days"
+msgstr ""
+
+#: class-moove-activity-actions.php:266
+msgid "2 months"
+msgstr ""
+
+#: class-moove-activity-actions.php:257
+msgid "2 weeks"
+msgstr ""
+
+#: class-moove-activity-actions.php:284
+msgid "2 years"
+msgstr ""
+
+#: class-moove-activity-actions.php:227
+msgid "3 days"
+msgstr ""
+
+#: class-moove-activity-actions.php:271
+msgid "3 months"
+msgstr ""
+
+#: class-moove-activity-actions.php:233
+msgid "4 days"
+msgstr ""
+
+#: class-moove-activity-actions.php:288
+msgid "4 years"
+msgstr ""
+
+#: class-moove-activity-actions.php:239
+msgid "5 days"
+msgstr ""
+
+#: class-moove-activity-actions.php:245
+msgid "6 days"
+msgstr ""
+
+#: class-moove-activity-actions.php:275
+msgid "6 months"
+msgstr ""
+
+#: class-moove-activity-content.php:234 class-moove-activity-content.php:241
+#: class-moove-activity-content.php:247
+msgid "Activate"
+msgstr ""
+
+#: class-moove-activity-options.php:62 class-moove-activity-actions.php:317
+msgid "Activity Log"
+msgstr ""
+
+#: views/moove/admin/activity-metabox.php:25
+msgid "Activity Session ID"
+msgstr ""
+
+#: class-moove-activity-actions.php:367
+#: views/moove/admin/settings/advanced-settings.php:16
+msgid "Advanced Settings"
+msgstr ""
+
+#: views/moove/admin/settings/activity-log-all.php:34
+msgid "All Dates"
+msgstr ""
+
+#: views/moove/admin/settings/activity-log.php:101
+msgid "All Logs"
+msgstr ""
+
+#: views/moove/admin/settings/activity-log-all.php:38
+msgid "All Post Types"
+msgstr ""
+
+#: class-moove-activity-actions.php:149 class-moove-activity-actions.php:335
+msgid "Archives"
+msgstr ""
+
+#: views/moove/admin/settings/activity-log.php:121
+msgid "Archives Log"
+msgstr ""
+
+#: class-moove-activity-content.php:251 class-moove-activity-content.php:340
+msgid "Buy licence"
+msgstr ""
+
+#: class-moove-activity-content.php:304
+msgid "Buy more licences"
+msgstr ""
+
+#: moove-functions.php:332
+msgid "Buy Premium"
+msgstr ""
+
+#: class-moove-activity-actions.php:441
+msgid "Collapse Menu"
+msgstr ""
+
+#: views/moove/admin/activity-metabox.php:35
+msgid "Create activity tracking session for this post"
+msgstr ""
+
+#: views/moove/admin/data-table-template.php:18
+#: views/moove/admin/data-table-template.php:52
+msgid "Date / Time"
+msgstr ""
+
+#: class-moove-activity-actions.php:455
+msgid "days"
+msgstr ""
+
+#: views/moove/admin/settings/activity-settings.php:116
+msgid "Delete logs older than"
+msgstr ""
+
+#: views/moove/admin/activity-metabox.php:20
+msgid "Disabled"
+msgstr ""
+
+#: views/moove/admin/data-table-template.php:23
+#: views/moove/admin/data-table-template.php:57
+msgid "Display Name"
+msgstr ""
+
+#: class-moove-activity-options.php:80 class-moove-activity-actions.php:372
+#: views/moove/admin/settings/documentation.php:16
+msgid "Documentation"
+msgstr ""
+
+#: views/moove/admin/activity-metabox.php:20
+msgid "Enabled"
+msgstr ""
+
+#: class-moove-activity-content.php:325
+msgid "Enter a new licence key:"
+msgstr ""
+
+#: class-moove-activity-content.php:371
+msgid "Enter licence key:"
+msgstr ""
+
+#: class-moove-activity-content.php:289
+msgid "Enter new licence key"
+msgstr ""
+
+#: class-moove-activity-content.php:358
+msgid "Enter your licence key:"
+msgstr ""
+
+#: class-moove-activity-options.php:68
+msgid "Event Tracking"
+msgstr ""
+
+#: views/moove/admin/settings/et-log.php:15
+msgid "Event Tracking - Log"
+msgstr ""
+
+#: views/moove/admin/settings/et-triggers.php:15
+msgid "Event Tracking - Triggers"
+msgstr ""
+
+#: views/moove/admin/settings/et-video-tutorial.php:15
+msgid "Event Tracking - Video Tutorial"
+msgstr ""
+
+#: class-moove-activity-actions.php:388 class-moove-activity-actions.php:507
+msgid "Event Tracking Log"
+msgstr ""
+
+#: views/moove/admin/settings/activity-log-all.php:32
+msgid "Filter by date"
+msgstr ""
+
+#: views/moove/admin/settings/activity-log-all.php:36
+msgid "Filter by post type"
+msgstr ""
+
+#: views/moove/admin/data-table-template.php:30
+#: views/moove/admin/data-table-template.php:64
+msgid "Full URL"
+msgstr ""
+
+#: moove-functions.php:319 class-moove-activity-actions.php:351
+#: views/moove/admin/settings/activity-log-cpt.php:27
+#: views/moove/admin/settings/activity-settings.php:20
+msgid "General Settings"
+msgstr ""
+
+#: class-moove-activity-actions.php:359
+#: views/moove/admin/settings/geolocation-tracking.php:15
+msgid "Geo Location Tracking"
+msgstr ""
+
+#: views/moove/admin/activity-metabox.php:19
+msgid "Global settings"
+msgstr ""
+
+#: views/moove/admin/settings/activity-settings.php:23
+msgid "Here you can set the activity tracking preferences by content type."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.mooveagency.com"
+msgstr ""
+
+#: views/moove/admin/data-table-template.php:27
+#: views/moove/admin/data-table-template.php:61
+#: views/moove/admin/activity-metabox.php:47
+msgid "IP Address"
+msgstr ""
+
+#: class-moove-activity-options.php:92 class-moove-activity-actions.php:381
+msgid "Licence Manager"
+msgstr ""
+
+#: views/moove/admin/data-table-template.php:26
+#: views/moove/admin/data-table-template.php:60
+#: views/moove/admin/activity-metabox.php:52
+msgid "Location"
+msgstr ""
+
+#. Author of the plugin
+msgid "Moove Agency"
+msgstr ""
+
+#: controllers/class-moove-activity-controller.php:85
+#: controllers/class-moove-activity-controller.php:94
+#: controllers/class-moove-activity-controller.php:102
+#: controllers/class-moove-activity-controller.php:137
+#: controllers/class-moove-activity-controller.php:144
+#: controllers/class-moove-activity-controller.php:153
+#: controllers/class-moove-activity-controller.php:161
+#: controllers/class-moove-activity-controller.php:168
+#: controllers/class-moove-activity-controller.php:274
+#: controllers/class-moove-activity-controller.php:283
+#: controllers/class-moove-activity-controller.php:291
+#: controllers/class-moove-activity-controller.php:326
+#: controllers/class-moove-activity-controller.php:333
+#: controllers/class-moove-activity-controller.php:342
+#: controllers/class-moove-activity-controller.php:350
+#: controllers/class-moove-activity-controller.php:357
+#: controllers/class-moove-activity-controller.php:421
+#: controllers/class-moove-activity-controller.php:430
+#: controllers/class-moove-activity-controller.php:438
+#: controllers/class-moove-activity-controller.php:473
+#: controllers/class-moove-activity-controller.php:480
+#: controllers/class-moove-activity-controller.php:488
+#: controllers/class-moove-activity-controller.php:496
+#: controllers/class-moove-activity-controller.php:503
+#: controllers/class-moove-activity-controller.php:968
+#: controllers/class-moove-activity-controller.php:974
+msgid "N/A"
+msgstr ""
+
+#: views/moove/admin/settings/activity-log-cpt.php:76
+msgid "No logs were found."
+msgstr ""
+
+#: views/moove/admin/data-table-template.php:29
+#: views/moove/admin/data-table-template.php:63
+msgid "Permalink"
+msgstr ""
+
+#: class-moove-activity-actions.php:363
+#: views/moove/admin/settings/permissions.php:15
+msgid "Permissions"
+msgstr ""
+
+#: views/moove/admin/settings/activity-settings.php:169
+msgid ""
+"Please confirm that you would like to reset the plugin settings to the "
+"default state"
+msgstr ""
+
+#: views/moove/admin/data-table-template.php:19
+#: views/moove/admin/data-table-template.php:53
+msgid "Post Title"
+msgstr ""
+
+#: views/moove/admin/data-table-template.php:20
+#: views/moove/admin/data-table-template.php:54
+#: views/moove/admin/settings/activity-settings.php:114
+msgid "Post Type"
+msgstr ""
+
+#: moove-activity.php:98
+msgid "Rate"
+msgstr ""
+
+#: views/moove/admin/data-table-template.php:28
+#: views/moove/admin/data-table-template.php:62
+#: views/moove/admin/activity-metabox.php:56
+msgid "Referrer"
+msgstr ""
+
+#: class-moove-activity-content.php:283
+msgid "Renew your licence"
+msgstr ""
+
+#: views/moove/admin/settings/activity-settings.php:157
+msgid "Reset Settings"
+msgstr ""
+
+#: views/moove/admin/settings/activity-settings.php:149
+msgid "Save Settings"
+msgstr ""
+
+#: views/moove/admin/settings/activity-log.php:106
+msgid "Search Logs..."
+msgstr ""
+
+#: views/moove/admin/settings/activity-log.php:104
+msgid "Search Posts"
+msgstr ""
+
+#: class-moove-activity-options.php:74
+msgid "Settings"
+msgstr ""
+
+#: views/moove/admin/settings/activity-settings.php:115
+msgid "Status"
+msgstr ""
+
+#: class-moove-activity-options.php:86 moove-functions.php:325
+#: class-moove-activity-actions.php:376
+#: views/moove/admin/settings/support.php:15
+msgid "Support"
+msgstr ""
+
+#: class-moove-activity-content.php:553
+msgid ""
+"There is a new version of User Activity Tracking and Log - Premium Add-On."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin gives you the ability to track user activity on your website."
+msgstr ""
+
+#: views/moove/admin/activity-metabox.php:45
+msgid "Time"
+msgstr ""
+
+#: views/moove/admin/settings/activity-log-cpt.php:26
+msgid "Tracking Disabled. Please enable the tracking for this post type."
+msgstr ""
+
+#: class-moove-activity-actions.php:402 class-moove-activity-actions.php:521
+#: views/moove/admin/settings/et-triggers-log.php:15
+msgid "Triggers Log"
+msgstr ""
+
+#: class-moove-activity-actions.php:395 class-moove-activity-actions.php:514
+msgid "Triggers Setup"
+msgstr ""
+
+#: views/moove/admin/activity-metabox.php:46
+msgid "User"
+msgstr ""
+
+#. Name of the plugin
+#: class-moove-activity-content.php:139
+#: views/moove/admin/settings/activity-log.php:78
+msgid "User Activity Tracking and Log"
+msgstr ""
+
+#: views/moove/admin/data-table-template.php:21
+#: views/moove/admin/data-table-template.php:55
+msgid "User Email"
+msgstr ""
+
+#: views/moove/admin/settings/et-users.php:15
+msgid "User Logs"
+msgstr ""
+
+#: views/moove/admin/data-table-template.php:25
+#: views/moove/admin/data-table-template.php:59
+msgid "User Role"
+msgstr ""
+
+#: class-moove-activity-actions.php:355
+#: views/moove/admin/settings/tracking-settings.php:14
+msgid "User Tracking Settings"
+msgstr ""
+
+#: views/moove/admin/data-table-template.php:22
+#: views/moove/admin/data-table-template.php:56
+msgid "Username"
+msgstr ""
+
+#: class-moove-activity-actions.php:341 class-moove-activity-actions.php:409
+#: class-moove-activity-actions.php:528
+#: views/moove/admin/settings/activity-groups.php:15
+msgid "Users"
+msgstr ""
+
+#: class-moove-activity-actions.php:346 class-moove-activity-actions.php:417
+#: class-moove-activity-actions.php:536
+#: views/moove/admin/settings/video-tutorial.php:15
+msgid "Video Tutorial"
+msgstr ""
+
+#: views/moove/admin/data-table-template.php:24
+#: views/moove/admin/data-table-template.php:58
+msgid "Visit Duration"
+msgstr ""
+
+#: class-moove-activity-content.php:254 class-moove-activity-content.php:343
+msgid "You can buy licences from our [store_link]online store[/store_link]."
+msgstr ""
+
+#: class-moove-activity-content.php:307
+msgid ""
+"You can buy more licences from our [store_link]online store[/store_link]."
+msgstr ""
+
+#: views/moove/admin/activity-metabox.php:83
+msgid "You don't have any entries in this log yet."
+msgstr ""
+
+#: class-moove-activity-content.php:284
+msgid ""
+"Your licence has expired. You will not receive the latest updates and "
+"features unless you renew your licence."
+msgstr ""
